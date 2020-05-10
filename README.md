@@ -7,3 +7,6 @@ Steps:
 2. ```cd aviralProject```
 3. ```source venv/bin/activate```
 4. ```python3 automationScript.py```
+
+
+If you get selenium not found run ```pip3 install selenium```
